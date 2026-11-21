@@ -1,0 +1,6 @@
+*-kit/
+out/
+node_modules/
+*.tar.gz
+.env
+*keypair*.json
