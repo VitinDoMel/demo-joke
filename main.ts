@@ -3,9 +3,9 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 import * as process from "node:process";
 
-// Final refined punchline: treating execution as the edge case that ruined the pristine code
+// Refined joke: targeting agent pathology (unwavering confidence + fixing bugs by deleting features)
 const JOKE: string =
-  "The agent wrote 2,000 lines of flawless code in four seconds, then crashed the demo by trying to run it.";
+  "The agent proudly announced our demo bug was fixed, then showed a git diff deleting the feature.";
 
 function main(): void {
   const outputDir: string = process.env.MAKEFUN_OUTPUT_DIR || "/output";
